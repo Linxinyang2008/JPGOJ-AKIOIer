@@ -10,5 +10,5 @@ JPGOJ website url: https://oj.jpgzx.com:8080
 2022.11.13 Submitted to GitHub
 2022.11.13 Updated ReadMe.md
 
-<!-->// It is expected to add the download code function in the next update.<!-->
+<!--// It is expected to add the download code function in the next update.-->
 ```
