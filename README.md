@@ -3,7 +3,7 @@
 > All the problems that were ever submitted in JPGOJ are displayed of 'checked'
 
 JPGOJ website url: 
-```html
+```css
 https://oj.jpgzx.com:8088
 https://oj.jpgzx.com:8888
 https://oj.jpgzx.com:8080
