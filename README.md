@@ -2,7 +2,13 @@
 
 > All the problems that were ever submitted in JPGOJ are displayed of 'checked'
 
-JPGOJ website url: https://oj.jpgzx.com:8088 https://oj.jpgzx.com:8888
+JPGOJ website url: 
+```html
+https://oj.jpgzx.com:8088
+https://oj.jpgzx.com:8888
+https://oj.jpgzx.com:8080
+10.20.252.249
+```
 
 * Author : Linxinyang2008 from Golden Apple Jincheng No.1 Seconday School Chengdu , PRC
 
